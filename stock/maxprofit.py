@@ -1,7 +1,7 @@
 def max_profit(prices):
 min_price = float('inf')
 max_profit = 0
-for price in prices:
+for price in prices:{}
     if price < min_price:
         min_price = price
     else:
